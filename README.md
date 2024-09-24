@@ -1,3 +1,4 @@
 # hello-world
 
-mainbranchのReadMe
+##mainbranchのReadMe
+mainブランチに関係している内容を記述していると仮定します。
