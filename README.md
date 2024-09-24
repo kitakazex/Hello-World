@@ -1,2 +1,6 @@
 # hello-world
-mainBranchでの更新
+
+ReadMeに情報を記述。
+さらに更新
+
+
