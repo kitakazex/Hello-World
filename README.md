@@ -1,5 +1,5 @@
 # hello-world
 
-firstbranchのREADME
-
+##firstbranchのREADME
+firtstbranchに関する部分についてのREADMEを記述しました。
 
