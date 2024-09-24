@@ -1,4 +1,5 @@
 # hello-world
 
-## mainbranchのReadMe
-mainブランチに関係している内容を記述していると仮定します。
+## firstbranchのREADME
+firtstbranchに関する部分についてのREADMEを記述しました。
+
